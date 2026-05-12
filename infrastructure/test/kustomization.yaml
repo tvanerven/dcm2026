@@ -7,3 +7,4 @@ kind: Kustomization
 resources:
   # Uncomment in Step X
    - washere
+   - dataverse
